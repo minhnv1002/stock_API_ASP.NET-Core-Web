@@ -127,6 +127,7 @@ D:\Project\ASP.NET web API\api\obj\Debug\net8.0\api.AssemblyInfo.cs
 D:\Project\ASP.NET web API\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
 D:\Project\ASP.NET web API\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
 D:\Project\ASP.NET web API\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\ASP.NET web API\api\obj\Debug\net8.0\api.sourcelink.json
 D:\Project\ASP.NET web API\api\obj\Debug\net8.0\staticwebassets.build.json
 D:\Project\ASP.NET web API\api\obj\Debug\net8.0\staticwebassets.development.json
 D:\Project\ASP.NET web API\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
